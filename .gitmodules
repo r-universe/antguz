@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rTLS"]
+	path = rTLS
+	url = https://github.com/antguz/rtls
+	shallow = true
+	registered = true
